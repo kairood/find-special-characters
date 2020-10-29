@@ -2,7 +2,7 @@
 A simple quick script to find Special Characters in a TXT file
 
 
-# Some processes where a TXT file is imported breaks if a special character is in the imported file, This script will quickly find them all for you!
+### Some processes where a TXT file is imported breaks if a special character is in the imported file, This script will quickly find them all for you!
 
 
 To use
